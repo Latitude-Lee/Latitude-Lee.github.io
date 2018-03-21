@@ -1,16 +1,16 @@
 future: true
 permalink: /:title/
-url: http://Leeegal.github.io
-name: Lee G
-author: 果哥
+url: http://Latitude.github.io
+name: Latitude-Lee 
+author: 李伟杜
 qq: 1016545929
 email: liguo6@mail2.sysu.edu.cn
-duoshuo: 果哥
+duoshuo: 李伟杜
 beian: 
 cnzz: 
-weibo: 吾有一弟名柳生
-github: Leeegal
+weibo: 
+github: Latitude
 paginate: 20
 highlighter: rouge
 truncate: true
-about: "果哥(Leeegal)"
+about: "李伟杜（Latitude）"
