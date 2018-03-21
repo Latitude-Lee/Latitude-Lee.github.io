@@ -1,7 +1,7 @@
 Latitude's Pages
 =================
 
-Web pages please visit [Latitude.github.io](http://Latitude.github.io).
+Web pages please visit [Latitude-Lee.github.io](http://Latitude-Lee.github.io).
 
 ## Network
 
