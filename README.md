@@ -1,7 +1,7 @@
-果哥's Pages
+Latitude's Pages
 =================
 
-Web pages please visit [Leeegal.github.io](http://Leeegal.github.io).
+Web pages please visit [Leeegal.github.io](http://Latitude.github.io).
 
 ## Network
 
